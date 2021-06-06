@@ -1,0 +1,16 @@
+inicio
+	var numero;
+
+	mostrar "ingrese un numero";
+	leer numero;
+
+
+	mientras numero >=1
+
+	  motrar numero
+	  mostrar " /n "
+	  numero --
+
+	fin mientras
+
+fin
